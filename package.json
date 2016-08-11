@@ -1,0 +1,10 @@
+{
+    "name": "Company.Node",
+    "version": "1.0.0.0",
+    "description": "Company.Node",
+    "main": "server.js",
+    "author": {
+        "name": "abhishek",
+        "email": "abhishek.sahai@imaginea.com"
+    }
+}
